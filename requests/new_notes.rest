@@ -1,0 +1,8 @@
+POST http://localhost:3001/notes
+Content-Type: application/json
+
+{
+    "content": "VS Coden REST client on paras keskinto sitten viipaloidun leivan",
+    "important": true,
+    "date": "Thu, 2 Jun 2022 21:36:00 GMT+3"
+}
